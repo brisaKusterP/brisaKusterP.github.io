@@ -1,0 +1,47 @@
+body{
+    background-image: url(fndd.jpg);
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+    font-size: 400%;
+}
+
+#me, table{
+    margin-bottom: 20%;
+    border-radius: 15%;
+    border-color:rgb(141, 29, 169);
+    border-style: double;
+}
+.formulario{
+    background-color: rgb(231, 108, 231);
+    border-color: rgb(141, 29, 169);
+    border-style:dashed ;
+    border-radius: 25px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20%;
+}
+h2#cont {
+    color: whitesmoke;
+}
+div.lista{
+    background-color:rgb(242, 223, 255);
+    border-style: dotted;
+    border-color: rgb(141, 29, 169);
+    border-radius: 15%;
+}
+a{
+    color: rgb(67, 67, 67);
+}
+a:hover{
+    font-size: 40px;
+}
+h2#Hab, h2#edu, h2#per{
+    margin-top: 20%;
+    font-size: 250%;
+}
+.tabla{
+    margin: auto;
+}
